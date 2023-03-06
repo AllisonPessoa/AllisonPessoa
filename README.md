@@ -2,8 +2,8 @@
 
 I work on data analysis and visualization for photonics experiments, which is the technology of manipulating photons (a quantum of light)!! I am a physicst, with a Master's degree in the field of Optics and Photonics.
 
-- 🔭 I’m currently working on data analysis for hyperspectral microscopy images as a Scientific Researcher at LMU in Munich, Germany.
 - 🌱 I’m currently learning Machine Learning algorithms and improving BigData skills.
+- 🔭 My previous role focused on data analysis for hyperspectral microscopy images as a Scientific Researcher at LMU in Munich, Germany.
 - 👯 I also have a broad interest in signal processing, optical engineering, diginal/analog electronics and arduino-based automation projects.
 
 ---
