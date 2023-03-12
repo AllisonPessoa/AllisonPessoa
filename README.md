@@ -4,25 +4,28 @@ I work on data analysis and visualization for photonics experiments, which is th
 
 - 🌱 I’m currently learning Machine Learning algorithms and improving BigData skills.
 - 🔭 My previous role focused on data analysis for hyperspectral microscopy images as a Scientific Researcher at LMU in Munich, Germany.
-- 👯 I also have a broad interest in signal processing, optical engineering, diginal/analog electronics and arduino-based automation projects.
+- 🔭 As a physicist, technical writing skills is part of my daily activities. I have already published numerous papers in sientific journals.
+- 👯 I also have a broad interest in signal processing, optical engineering, diginal/analog electronics and microcontroller-based automation projects.
 
 ---
-### Languages
+### TECH SKILLS
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff) 
 ![SQL](https://img.shields.io/badge/-SQL-5586A4?&logo=databricks&logoColor=white)
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-blue?style=arduin&logo=arduino)
-
-### Libraries
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange)
 ![SciPy](https://img.shields.io/badge/-Scipy-09A3D5?&logo=Scipy&logoColor=white)
 
-### IDE's/Editors
+![Power BI](https://img.shields.io/badge/-Power_BI-yellow)
+![Tableau](https://img.shields.io/badge/-Tableau-blueviolet)
+
+![AWS](https://img.shields.io/badge/-AWS-orange)
+![GCP](https://img.shields.io/badge/-GCP-blue)
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=Plastic&logo=visual-studio&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=Plastic&logo=spyder%20ide&logoColor=maroon)
