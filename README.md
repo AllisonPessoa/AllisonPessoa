@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I work on data analysis and visualization for photonics experiments, which is the technology of manipulating photons (a quantum of light)!! I am a physicst, with a Master's degree in the field of Optics and Photonics.
+Hello! I am a physicist (Bachelor's and Master's degree) working with data analysis and visualization for over 4 years. My main expertise involves solving challenging analytical problems, creating and improving advanced mathematical and statistical models for data analysis.
 
 - 🌱 I’m currently learning Machine Learning algorithms and improving BigData skills.
-- 🔭 My previous role focused on data analysis for hyperspectral microscopy images as a Scientific Researcher at LMU in Munich, Germany.
-- 🔭 As a physicist, technical writing skills is part of my daily activities. I have already published numerous papers in sientific journals.
-- 👯 I also have a broad interest in signal processing, optical engineering, diginal/analog electronics and microcontroller-based automation projects.
+- 🕵️‍♂️ My previous role focused on data analysis and statistical treatment for hyperspectral microscopy images as a short-term Researcher at LMU in Munich, Germany.
+- ✍🏾 As a physicist, technical writing skills is part of my daily activities. I have already published numerous papers in sientific journals.
+- 👯 I also have a broad interest in IoT, signal processing, optical engineering, diginal/analog electronics and microcontroller-based automation projects.
 
 ---
 ### TECH SKILLS
@@ -19,6 +19,7 @@ I work on data analysis and visualization for photonics experiments, which is th
 
 ![Pandas](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange)
+![Seaborn](https://img.shields.io/badge/-Seaborn-blue)
 ![SciPy](https://img.shields.io/badge/-Scipy-09A3D5?&logo=Scipy&logoColor=white)
 
 ![Power BI](https://img.shields.io/badge/-Power_BI-yellow)
@@ -26,6 +27,9 @@ I work on data analysis and visualization for photonics experiments, which is th
 
 ![AWS](https://img.shields.io/badge/-AWS-orange)
 ![GCP](https://img.shields.io/badge/-GCP-blue)
+
+![MySQL](https://img.shields.io/badge/-MySQL-blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=Plastic&logo=visual-studio&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=Plastic&logo=spyder%20ide&logoColor=maroon)
