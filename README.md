@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello World! I am a Phd candidate in Physicist with an MSc degree in Optical Physics and a passion for data analysis and software development. My master's degree project focused on the visualization and data statistical processing of hyperspectral microscopy images. Currently, my work focuses on the light-matter interaction in the nanometer length scale towards building classical and quantum nanosensors.
+Hello World! I am a Phd candidate in Physics with an MSc degree in Optical Physics and a passion for data analysis and software development. My master's degree project focused on the visualization and data statistical processing of hyperspectral microscopy images. Currently, my work focuses on the light-matter interaction in the nanometer length scale towards building classical and quantum nanosensors.
 
 ---
 
